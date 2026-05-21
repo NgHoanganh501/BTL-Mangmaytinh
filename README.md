@@ -1,1 +1,2 @@
-# BTL-M-ng-m-y-t-nh
+# BTL-Mạng máy tính
+# Lập trình mô phỏng giao thức LSA
